@@ -41,7 +41,8 @@ main {
 .operands,
 .clear,
 .undo,
-.equal {
+.equal,
+.decimal {
     font-size: 3rem;
 }
 
